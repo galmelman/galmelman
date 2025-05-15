@@ -1,6 +1,6 @@
 # 💫 About Me:
 What I'm Working On
-- 🛠 Currently developing a **Job Application Tracker** using Python, Tkinter, and SQLite
+- 🛠 Currently developing a **Gainit** using C#, .NET, and AZURE
 
 
 ## 🌐 Socials:
